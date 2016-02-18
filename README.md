@@ -17,3 +17,5 @@ Face detect and overlay mask.
 # Note that
 
 > You also need OpenCV3.0+ lib and include!
+
+> Source code comes from **OpenCV By Example** book.
